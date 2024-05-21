@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+langchain-google-genai  
+llama_index  
+textwrap
+logging
